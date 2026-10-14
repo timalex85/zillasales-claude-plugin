@@ -1,5 +1,22 @@
 # ZillaSales for Claude
 
+Find independent sales reps and commission-based opportunities directly in Claude.
+
+## Try it in Claude
+
+- Find technology sales opportunities and compare territories and disclosed commission terms.
+- Find independent technology sales reps and compare their public experience and territory coverage.
+- Show my private sample opportunity draft and explain what remains before submission.
+
+## See it in action
+
+![Find technology sales opportunities and compare territories and disclosed commission terms.](https://zillasales.com/developers/claude/01-opportunities.jpg)
+
+![Find independent technology sales reps and compare their public experience and territory coverage.](https://zillasales.com/developers/claude/02-representatives.jpg)
+
+![Show my private sample opportunity draft and explain what remains before submission.](https://zillasales.com/developers/claude/03-private-draft.jpg)
+
+
 ![ZillaSales](assets/icon.png)
 
 Find independent sales opportunities and representatives, compare results, and manage your own shortlist and application or opportunity drafts.
