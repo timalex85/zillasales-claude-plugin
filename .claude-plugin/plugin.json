@@ -1,0 +1,17 @@
+{
+  "name": "zillasales",
+  "version": "1.0.0",
+  "description": "Find independent sales opportunities and representatives, compare results, and manage your own shortlist and application or opportunity drafts.",
+  "author": {
+    "name": "ZillaSales",
+    "email": "support@zillasales.com",
+    "url": "https://zillasales.com"
+  },
+  "homepage": "https://zillasales.com/developers",
+  "license": "MIT",
+  "keywords": [
+    "sales",
+    "sales-representatives",
+    "opportunities"
+  ]
+}
