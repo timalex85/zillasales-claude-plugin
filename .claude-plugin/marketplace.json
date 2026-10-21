@@ -9,7 +9,13 @@
     {
       "name": "zillasales",
       "source": "./",
-      "description": "Find independent sales reps and commission-based opportunities in Claude. Compare territories and terms, build shortlists, and prepare applications or private opportunity drafts."
+      "description": "Find independent sales reps for your business or commission-based opportunities for your sales experience. Search by products, industry and territory; compare experience, coverage and disclosed commission terms. Connect to save favorites and shortlists, prepare and submit applications, create private opportunity drafts, or review your company\u2019s applicants. Public search needs no account. You review and confirm applications and submissions before they are sent.",
+      "displayName": "ZillaSales: Sales Reps & Opportunities",
+      "version": "1.0.2"
     }
-  ]
+  ],
+  "metadata": {
+    "description": "Find independent sales reps for your business or commission-based opportunities for your sales experience. Search by products, industry and territory; compare experience, coverage and disclosed commission terms. Connect to save favorites and shortlists, prepare and submit applications, create private opportunity drafts, or review your company\u2019s applicants. Public search needs no account. You review and confirm applications and submissions before they are sent.",
+    "version": "1.0.2"
+  }
 }
